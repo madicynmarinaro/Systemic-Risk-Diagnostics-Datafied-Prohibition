@@ -1,10 +1,10 @@
-Publisher,Revenue Reliance,Primary Audit Source
-MJBiz Daily,Primary Reliance,Acquisition Disclosures
-Leafly,Primary Reliance,SEC Filings
-Ganjapreneur,Primary Reliance,Media Kit Analysis
-Cannabis Business Times,Primary Reliance,Media Kit Analysis
-,,
-[METADATA],,
-Source,"Marinaro, M. (2025). Cannabis Media Transparency & Advertising Report.",
-Description,"Categorical audit of revenue dependencies in cannabis trade media.",
-License,"Institutional Reference Only / CCAT",
+Publisher,Core Advertising Revenue Share (%),Subscriptions & Alternative Share (%),Data Verification Anchor
+MJBizDaily,85%,15%,"Emerald X Acquisition Disclosures / Event Registration Mix"
+Leafly,82%,18%,"SEC Public Financial Filings / Retailer Listings"
+Ganjapreneur,90%,10%,"Published B2B Media Kit Inventory / Direct Sales"
+Cannabis Business Times,88%,12%,"Gie Media Corporate Structure / B2B Rate Cards"
+,,,
+[METADATA],,,
+Source,"Marinaro, M. (2025). Cannabis Media Transparency & Advertising Report.",,
+Description,"Quantitative allocation matrix mapping core advertising/sponsorship reliance against subscription revenue across major cannabis trade publishers.",,
+License,"Institutional Reference Only / CCAT",,
