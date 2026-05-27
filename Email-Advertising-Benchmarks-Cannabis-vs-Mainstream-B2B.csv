@@ -1,5 +1,4 @@
-```csv
-Platform,Effective CPM (Per 1000 Opens),Type/Benchmark
+Platform,eCPM,Category
 MJBiz,247,Cannabis Trade Media
 Ganjapreneur,307,Cannabis Trade Media
 CBT Med.Rect.,191,Cannabis Trade Media
@@ -8,5 +7,5 @@ Mainstream Avg,85,Mainstream B2B Benchmark
 ,,
 [METADATA],,
 Source,"Marinaro, M. (2025). Cannabis Media Transparency & Advertising Report.",
-Description,"Effective cost per thousand impressions (eCPM) for email campaigns across selected cannabis trade outlets compared with mainstream business-to-business media averages.",
+Description,"eCPM comparison for email campaigns in restricted markets.",
 License,"Institutional Reference Only / CCAT",
