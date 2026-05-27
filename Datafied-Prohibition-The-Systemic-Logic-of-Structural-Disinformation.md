@@ -17,6 +17,44 @@ Cannabis exposes disinformation not as a relic of the past but as a living archi
 
 ---
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [1. Disinformation and Dispossession](#1-disinformation-and-dispossession)
+  * [1.1. From Propaganda to Policy](#11-from-propaganda-to-policy)
+  * [1.2. Reefer Madness Rebranded](#12-reefer-madness-rebranded)
+  * [1.3. From Criminalization to Corporate Capture](#13-from-criminalization-to-corporate-capture)
+  * [1.4. Surveillance, Safety, and Structural Control](#14-surveillance-safety-and-structural-control)
+* [2. Advertising Restrictions and the Architecture of Visibility](#2-advertising-restrictions-and-the-architecture-of-visibility)
+  * [2.1. A Constrained Marketplace](#21-a-constrained-marketplace)
+  * [2.2. Why Automation Fails and How Scarcity Replaces Scale](#22-why-automation-fails-and-how-scarcity-replaces-scale)
+  * [2.3. Email and Events: Monetizing Limitation](#23-email-and-events-monetizing-limitation)
+  * [2.4. Influence as Inventory](#24-influence-as-inventory)
+  * [2.5. Structural Consequences of Pay-to-Play Visibility](#25-structural-consequences-of-pay-to-play-visibility)
+  * [2.6. The Feedback Loop](#26-the-feedback-loop)
+* [3. Narrative Influence and Market Incentives](#3-narrative-influence-and-market-incentives)
+  * [3.1. How Business Models Shape Cannabis Media](#31-how-business-models-shape-cannabis-media)
+  * [3.2. The Production of Legitimacy](#32-the-production-of-legitimacy)
+  * [3.3. Fear-Based Authority as a Market Strategy](#33-fear-based-authority-as-a-market-strategy)
+  * [3.4. Engagement Economics and Extraction](#34-engagement-economics-and-extraction)
+* [4. Market Manipulation and Informational Asymmetry](#4-market-manipulation-and-informational-asymmetry)
+  * [4.1. Regulatory Capture Through Compliance Economics](#41-regulatory-capture-through-compliance-economics)
+  * [4.2. Profit From Disorder](#42-profit-from-disorder)
+  * [4.3. The Bureaucratization of Biology](#43-the-bureaucratization-of-biology)
+  * [4.4. The Manufactured Binary](#44-the-manufactured-binary)
+  * [4.5. From Sentiment Arbitrage to Systemic Risk](#45-from-sentiment-arbitrage-to-systemic-risk)
+* [5. Cannabis as a Total-Spectrum Systemic Risk](#5-cannabis-as-a-total-spectrum-systemic-risk)
+  * [5.1. Cascading Failure](#51-cascading-failure)
+  * [5.2. Interconnectedness](#52-interconnectedness)
+  * [5.3. Contagion](#53-contagion)
+  * [5.4. Complexity](#54-complexity)
+  * [5.5. Interlinkage](#55-interlinkage)
+  * [5.6. High Leverage](#56-high-leverage)
+* [6. Conclusion](#6-conclusion)
+* [References](#references)
+
+---
+
 ## Introduction
 
 For nearly a century, cannabis has served as a laboratory for narrative control and the production of disinformation at scale. Tracing this history allows us to see how past propaganda becomes embedded in modern technological infrastructures. Cannabis thus provides a cautionary case of how disinformation adapts, mutates, and ultimately becomes a form of systemic risk. 
