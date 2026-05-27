@@ -508,7 +508,9 @@ This is the ultimate lesson the cannabis sector offers to broader information ec
 
 The path forward, therefore, does not require the invention of new top-down regulatory containment strategies, but rather the systematic demolition of manufactured opacity. When the hidden economic incentives behind panic are exposed to empirical measurement, the financial utility of manufacturing instability collapses. Rebuilding a shared reality requires shifting the underlying economic imperatives away from the extraction of behavioral surplus through fear and toward the production of value through transparency. 
 
-The structural gridlock of the current market is not an organic consequence of natural botanical or economic complexity; it is the artificial byproduct of an information architecture built to monetize misperception. Complexity is not the inherent enemy of public safety. Fear is. And once fear is quantified, exposed, and stripped of its economic profitability, the architecture of prohibition loses its power to govern, rendering the entire system finally capable of structural transformation.
+Cannabis demonstrates this systemic divergence with absolute clarity. A market architecture organized around engineered fear becomes structurally rigid, opaque, and brittle—entirely dependent on ongoing distortion to sustain its distribution of power. Conversely, a market architecture organized around empirical quantification and transparent data flows becomes structurally resilient, open, and capable of authentic correction. 
+
+The structural gridlock of the current market is not an organic consequence of natural botanical or economic complexity; it is the artificial byproduct of an information architecture built to monetize misperception. Complexity is not the inherent enemy of public safety. Fear is. And once fear is quantified, exposed, and stripped of its economic profitability, the architecture of prohibition loses its power to govern, rendering the entire system finally capable of structural transformation. 
 
 
 ## References
@@ -630,5 +632,5 @@ WRD News Team. (2025). Why Cannabis Prices Are Plummeting Across America. *WRD N
 YouTube. (2025). *Illegal or Regulated Goods or Services Policies*. YouTube Help Center. Available at: https://support.google.com/youtube/answer/9229611?hl=en
 
 Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
-Cannabis demonstrates this systemic divergence with absolute clarity. A market architecture organized around engineered fear becomes structurally rigid, opaque, and brittle—entirely dependent on ongoing distortion to sustain its distribution of power. Conversely, a market architecture organized around empirical quantification and transparent data flows becomes structurally resilient, open, and capable of authentic correction. 
+
 
