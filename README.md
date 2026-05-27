@@ -66,7 +66,7 @@ Datafied Prohibition is not a malfunction of the system; it is the operating log
 ---
 
 **Suggested Citation:**  
-Marinaro, M. (2025). *Recalibrating Systemic Informational Risk: The Datafied Prohibition Framework*. GitHub Repository: [Your Repo Link Here]
+Marinaro, M. (2025). *Recalibrating Systemic Informational Risk: The Datafied Prohibition Framework*. GitHub Repository: [(https://github.com/madicynmarinaro/Systemic-Risk-Diagnostics-Datafied-Prohibition)e]]
 
 ---
 
